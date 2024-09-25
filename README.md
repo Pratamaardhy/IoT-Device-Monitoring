@@ -1,2 +1,2 @@
 # IoT-Device-Monitoring
-This repository contains the source code for an IoT device monitoring system using an ESP32 microcontroller and a SIM7600 GPRS module.
+This repository contains the source code for an IoT device monitoring system using an ESP32 microcontroller and a SIM7600 GPRS module. The project focuses on tracking the status (ON/OFF) of connected devices and transmitting the data to a remote server using the Telkomsel APN. It utilizes the ThingSpeak API to send and visualize data in real-time, making it suitable for remote monitoring applications.
